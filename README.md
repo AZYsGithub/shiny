@@ -1,6 +1,7 @@
 # Shiny
 
 A blazingly fast Lua(u) decompiler, forked from [medal](https://github.com/shrimp-nz/medal).
+This Repository only exists for compiling android version.
 
 ## Usage
 
